@@ -1,6 +1,6 @@
 # CTF-Bienvenidos 🕵️‍♀️🔍
 
-¡Bienvenido a "Bienvenidos"! Este es un desafío de Capture The Flag (CTF) inspirado en la popular serie del mismo nombre, diseñado para poner a prueba tus habilidades en hacking utilizando Docker.
+¡Bienvenido a "Bienvenidos"! Este es un desafío de Capture The Flag (CTF), diseñado para poner a prueba tus habilidades en hacking utilizando Docker.
 
 ## 🚀 Comenzando
 
